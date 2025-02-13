@@ -1,0 +1,40 @@
+h1, h2, h3, h4 {
+    color: #808000;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+img {
+    float: center;
+}
+
+.menu {
+    text-align: justify;
+    text-indent: 0px;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+div {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.bold{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+nav {
+    font-family: sans-serif;
+    font-size: small;  
+}
+
+p {
+    text-indent: 35px;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: small;
+    line-height: 130%;
+}
