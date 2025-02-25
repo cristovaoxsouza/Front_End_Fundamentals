@@ -1,0 +1,148 @@
+img {
+    width: 600px;
+    height: 400px;
+    justify-content: center;
+}
+
+.slogan {
+    background-color: #2a9d8f;
+    text-align: center;
+    font-size: 25px;
+}
+
+.services {
+    justify-items: center;
+    flex-direction: row;
+}
+
+.services-group {
+    padding: 10px;
+    margin: 1 solid black;
+    justify-items: auto;
+    flex-wrap: wrap;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f4a261;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    padding: 15px;
+    background-color: rgba(115, 245, 223, 0.5);
+    text-align: center;
+    margin: 0px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #264653;
+}
+
+.item {
+    font-weight: bold;
+    color: brown;
+    
+}
+
+#about img {
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    color: white;
+    padding: ;
+    margin: 5px 0;
+}
+
+.menu {
+    display: flex;
+    background:#f4a261;
+    justify-content: space-around;
+}
+
+#map {
+    height: 200px;
+    background: #e9c46a;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    
+}
+
+label {
+    margin-top: 10px;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    background: #264653;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background: #f4a261;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+} 
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.link:active {
+    color: white;
+    text-decoration: none;
+}
+
+.social-midia {
+
+}
