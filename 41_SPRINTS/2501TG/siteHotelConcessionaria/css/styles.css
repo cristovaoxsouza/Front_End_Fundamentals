@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.home {
+  text-align: center;
+  justify-content: space-around;
+  display: table-row;
+  align-items: normal;
+  flex-direction: row;
+  
+   
+  }
+
+  h1 {
+    background-color: darkcyan;
+    text-align: center;
+    border-radius: 10px;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  ul {
+    justify-content: center;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  a {
+    list-style-type: none;
+    text-decoration:overline;
+    text-decoration: none;
+  }
+  
+  /*.text {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    }*/
+
+  .menu {
+    list-style-type: none;
+    display: flex;
+    background-color: darkseagreen;
+    font-weight:normal;
+    text-align: center;
+    border-radius: 5px;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .dashboard {
+    font-family: 'Poppins', sans-serif;
+    color: brown;
+  }
+
+  .footer {
+    margin: 0px 0px 10px;
+  }
+
+  .rodape {
+  color: brown;
+    list-style-type: none;
+    padding: 5px;
+    font-size: small;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+  }
+
+  
